@@ -5,7 +5,7 @@ A list of essential commands, key bindings and general terminal shortcuts.
 Use the following command to download the `tmux` configuration:
 
 ```bash
-curl -o ~/.tmux.config https://raw.githubusercontent.com/takitakitanana/public/main/tmux/.tmux.config
+curl -o ~/.tmux.conf https://raw.githubusercontent.com/takitakitanana/public/main/tmux/.tmux.conf
 ```
 
 ### Prefix
