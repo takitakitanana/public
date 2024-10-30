@@ -37,6 +37,8 @@ curl -o ~/.tmux.config https://raw.githubusercontent.com/takitakitanana/public/m
 
 ## `vim`
 - **Delete all text**: `:` + `%d`
+- **Go to line number 1**: `:` + `1`
+- **Quit without saving**: `:` + `q!`
 
 ## Miscellaneous
 - **Clear**: `ctrl` + `l`
