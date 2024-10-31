@@ -14,6 +14,7 @@ curl -o ~/.tmux.conf https://raw.githubusercontent.com/takitakitanana/public/mai
 ### Pane Management
 - **Add New Pane**: `prefix` + `c`
 - **Rename Pane**: `prefix` + `,`
+- **Kill Active Pane**: `prefix` + `x` + `y`
 
 ### Session Management
 - **Detach from Session**: `prefix` + `d`
